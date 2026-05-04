@@ -2,7 +2,8 @@ node_modules/
 vendor/
 public/build/
 .env
-.env.*
+.env.testing
+.env.local
 .git/
 .phpunit.cache/
 tests/
